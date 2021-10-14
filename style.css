@@ -1,0 +1,31 @@
+
+.container{
+    height:400px;
+    width: 300px;
+    border: 1px solid black;
+    
+}
+.face{
+    height: 50px; 
+    width: 50px;
+    margin-top: 75px;
+}
+.box1{
+    height: 100px;
+    width: 300px;
+    background-color:rgb(48, 184, 184);
+}
+.box2{
+    height:250px;
+    width:300px;
+    padding: 10px;
+    margin-top: -11    0px;
+}
+.flexie{
+    display: flex;
+}
+.map{
+    display: inline-block;
+    height: 25px; 
+    width: 25px;
+}
